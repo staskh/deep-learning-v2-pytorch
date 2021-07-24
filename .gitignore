@@ -1,5 +1,12 @@
 .github/**
 
+# Stas additions
+intro-to-pytorch/Cat_Dog_data/*
+.DS_Store
+*/.DS_Store
+intro-to-pytorch/__pycache__
+intro-to-pytorch/__pycache__/helper.cpython-37.pyc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
